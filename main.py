@@ -3,7 +3,7 @@ import threading
 import telebot
 from telebot import types
 
-DB_TOKEN = '7367081324:AAFsgI_Fo2daP4d17G_1ykPZAySUZY2xT60'
+DB_TOKEN = ''
 BOT_USERNAME = '@Dubaimollbot'
 ADMIN_USERNAME = '@saidjffhas'
 
